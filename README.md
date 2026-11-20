@@ -1,4 +1,6 @@
 # HookLens — Real-Time HTTP Webhook Inspector & Replay Engine
+[![Live Demo](https://shields.io▶_Live_Demo-Open_App-10B981?style=for-the-badge)](https://vercel.app)
+[![Open in StackBlitz](https://shields.ioOpen_in-StackBlitz-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white)](https://stackblitz.com)
 
 A low-latency, keyboard-first developer tool to capture, stream, inspect, and replay incoming HTTP webhooks in real time.
 
